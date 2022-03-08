@@ -11,3 +11,6 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
+
+
+console.assert is a new method learned today - writes an error message to the console if the assertion is false. If the assertion is true, nothing happens.
